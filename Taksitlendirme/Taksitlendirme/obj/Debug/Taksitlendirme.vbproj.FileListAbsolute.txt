@@ -1,0 +1,10 @@
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Taksitlendirme\Taksitlendirme\bin\Debug\Taksitlendirme.exe.config
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Taksitlendirme\Taksitlendirme\bin\Debug\Taksitlendirme.exe
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Taksitlendirme\Taksitlendirme\bin\Debug\Taksitlendirme.pdb
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Taksitlendirme\Taksitlendirme\bin\Debug\Taksitlendirme.xml
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Taksitlendirme\Taksitlendirme\obj\Debug\Taksitlendirme.Form1.resources
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Taksitlendirme\Taksitlendirme\obj\Debug\Taksitlendirme.Resources.resources
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Taksitlendirme\Taksitlendirme\obj\Debug\Taksitlendirme.vbproj.GenerateResource.Cache
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Taksitlendirme\Taksitlendirme\obj\Debug\Taksitlendirme.exe
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Taksitlendirme\Taksitlendirme\obj\Debug\Taksitlendirme.xml
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\Taksitlendirme\Taksitlendirme\obj\Debug\Taksitlendirme.pdb
